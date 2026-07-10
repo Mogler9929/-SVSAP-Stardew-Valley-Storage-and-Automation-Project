@@ -2,7 +2,7 @@
 
 版本：Ver1.4.0Alpha1（内部版本：1.4.0-alpha.1）  
 适配：Stardew Valley 1.6.15 / SMAPI 4.5.2+  
-源码：////////////////
+源码：https://github.com/Mogler9929/-SVSAP-Stardew-Valley-Storage-and-Automation-Project/releases/tag/download
 
 SVSAP 为星露谷物语加入网络存储、数字存储元件、导入/导出总线、样板编码、机器处理流水线和自动合成系统。SVSAPME 是可选扩展，提供电力机器、发电、储能与 powered 设备。
 
